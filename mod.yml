@@ -1,0 +1,1 @@
+title: KH2-Weapon namesoriginalAuthor: GuidingHeartdescription: Replaces keyblades with KH2 weapons names!assets:- name: remastered\btltbl.bin\UK_Word.bin  method: copy  source:  - name: remastered\btltbl.bin\UK_Word.bin- name: remastered\btltbl.bin\US_Word.bin  method: copy  source:  - name: remastered\btltbl.bin\US_Word.bin
